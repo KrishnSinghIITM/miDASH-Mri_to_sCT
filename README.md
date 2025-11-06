@@ -95,6 +95,7 @@ A custom **U-Net** was implemented in PyTorch for 2D MRI–CT image synthesis. T
 ---
 
 **Validation Results:**
+
 ![Validation Results](https://github.com/KrishnSinghIITM/miDASH-Mri_to_sCT/blob/main/assets/result_val)
 
 ---
@@ -115,6 +116,8 @@ A **Flask-based** web app for real-time MRI → sCT synthesis and medical image 
 * Tissue segmentation (White Matter, Gray Matter, CSF).
 * Density classification (Bone, Soft Tissue, Fat, Air).
 * Real-time visualization and statistical analysis.
+
+Demo Video: [View on LinkedIn](https://www.linkedin.com/posts/krishnsinghiitm_ai-healthcareai-medicalimaging-activity-7377695890062376960-fGJY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_CsbQBr-0AJo16HVG__QxxowCiBBwuTsc)
 
 ![miDASH Dashboard Interface](https://github.com/KrishnSinghIITM/miDASH-Mri_to_sCT/blob/main/assets/demo_img)
 

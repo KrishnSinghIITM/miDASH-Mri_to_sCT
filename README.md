@@ -188,9 +188,10 @@ Mri_to_sCT_Krishn_Singh_2406170_iitmd_masai_capstone_project/
 
 ---
 
-### Contact
+### Contact ;-
 
 **Krishn Singh**
+
 Email: [o24105@cce.iitmandi.ac.in](mailto:o24105@cce.iitmandi.ac.in)
 
 GitHub: [github.com/KrishnSinghIITM](https://github.com/KrishnSinghIITM)
